@@ -14,3 +14,8 @@ It analyzes real-time sales, revenue, customer segmentation, and product perform
 - **DAX (Data Analysis Expressions)**
 - **Data Cleaning & Transformation (Power Query)**
 - **Visual Design Principles**
+
+- ## What I Learned
+- Hands-on practice with real-world dashboard building
+- Efficient use of DAX for KPIs and measures
+- Improved storytelling through clean data visuals
